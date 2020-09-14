@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Steve",
+        "age": "123",
+        "userID": "Steve123",
+        "email": "steve@gmai.com",
+        "password": "123456"
+    },
+    {
+        "name": "Leo",
+        "age": "12",
+        "userID": "Leo123",
+        "email": "leo@gmai.com",
+        "password": "12345"
+    },
+    {
+        "name": "kim",
+        "age": "1",
+        "userID": "Kim123",
+        "email": "kim@gmai.com",
+        "password": "1234"
+    }
+]
